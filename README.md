@@ -22,4 +22,4 @@ Each function assumes you already initialized the database via the member initia
 - `QueryTable` will automatically log the request response to the console.
 
 ## License
-This project is licensed under [MIT License](https://github.com/eepsite/lcn/blob/master/LICENSE). [Learn more](https://choosealicense.com/licenses/mit/).
+This project is licensed under [MIT License](https://github.com/eepsite/lcn/blob/master/LICENSE). [Learn more](https://choosealicense.com/licenses/mit/)
