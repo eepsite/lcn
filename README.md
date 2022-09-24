@@ -10,7 +10,8 @@ The MySQL C API documentation can be found [here](https://dev.mysql.com/doc/c-ap
 ## Building
 The easiest way to build this is to install [Visual Studio Community 2022](https://visualstudio.microsoft.com/downloads/). </br>
 You can also try [Visual Studio Code](https://code.visualstudio.com/docs/cpp/config-msvc) with the MSVC compiler toolset. </br>
-Make sure to add the additional include directory for `<mysql.h>`. The default install path should be in `C:\Program Files\MySQL\`. </br>
+Make sure to add the additional include directory for `<mysql.h>`. </br>
+The default install path should be in `C:\Program Files\MySQL\`. </br>
 
 ## Usage
 The MySQL API in LCN currently only supports existing database manipulation. </br>
